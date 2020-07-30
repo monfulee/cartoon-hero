@@ -62,10 +62,15 @@ p.caption{
 }
 /*footer element settings*/
 footer{
-	background-color: #d14635;
+	background-color: #D14635;
 	text-align: center;
 	padding: 20px;
 	color: white;
+}
+
+footer p{
+	background-color: #D14635;
+	padding: 4%;
 }
 /*links color*/
 footer a{
