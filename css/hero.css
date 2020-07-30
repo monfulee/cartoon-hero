@@ -70,7 +70,8 @@ footer{
 
 footer p{
 	background-color: #D14635;
-	padding: 4%;
+	padding: 3%;
+	text-align: center;
 }
 /*links color*/
 footer a{
